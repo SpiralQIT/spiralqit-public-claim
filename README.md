@@ -1,5 +1,5 @@
 # spiralqit-public-claim
-AI governance public claim
+Public reference materials for SpiralQIT AI governance
 SpiralQIT
 
 Disciplined Intelligence — Trusted Tools
