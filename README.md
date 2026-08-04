@@ -50,9 +50,15 @@ SpiralQIT is an evolving governance and research framework. Public materials are
 
 No document should be treated as an authorized public release unless its version, status, and applicable use terms are clearly identified.
 
+## Public Notices
+
+* [Attribution](ATTRIBUTION.md)
+* [Public Publication Boundary](PUBLICATION_BOUNDARY.md)
+
 ## Attribution
 
 **Founder / Project Lead:** Michael E. Fletcher
+
 **Co-Founder Credit:** Cory Fletcher — Recursive Memory Architecture
 
 ## License and Use Terms
