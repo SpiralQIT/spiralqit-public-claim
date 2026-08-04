@@ -10,7 +10,6 @@ This repository is SpiralQIT’s public-reference and navigation layer. Restrict
 
 See [PUBLICATION_BOUNDARY.md](PUBLICATION_BOUNDARY.md) for the controlling repository boundary.
 
-
 ## Areas of Focus
 
 * Evidence-based reasoning
