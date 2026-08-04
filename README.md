@@ -1,11 +1,10 @@
-# spiralqit-public-claim
-Public reference materials for SpiralQIT AI governance
+# SpiralQIT Public Reference
 
-Disciplined Intelligence — Trusted Tools
+**Disciplined Intelligence**
 
 SpiralQIT is a governance-oriented framework for improving trust, accountability, transparency, and resilience in human and AI-assisted decision systems.
 
-The project explores methods for:
+## Areas of Focus
 
 * Evidence-based reasoning
 * Human-centered oversight
@@ -15,13 +14,11 @@ The project explores methods for:
 * Responsible use of AI systems
 * Governance-first system design
 
-Core Principle
-
-SpiralQIT operates from a simple premise:
+## Core Principle
 
 Trust should be earned through evidence, transparency, reviewability, and accountability.
 
-Decision Resilience
+## Decision Resilience
 
 Traditional resilience asks:
 
@@ -30,21 +27,15 @@ Traditional resilience asks:
 
 SpiralQIT adds a third question:
 
-Can we recover the decision?
+**Can we recover the decision?**
 
-A governable system must be capable of reconstructing, reviewing, correcting, and, where appropriate, reversing significant decisions.
+A governable system should support the reconstruction, review, correction, and—when appropriate—reversal of significant decisions.
 
-Current Status
+## Repository Purpose
 
-This repository currently contains public reference materials and documentation.
+This repository is a limited public-reference collection for educational, research, and documentation purposes. It does not contain the complete internal SpiralQIT architecture, governance system, audit record, or project archive.
 
-This repository is:
-
-* Educational
-* Research-oriented
-* Documentation-focused
-
-This repository is not:
+The materials published here are not:
 
 * A production system
 * A certification program
@@ -53,30 +44,22 @@ This repository is not:
 * Medical advice
 * A commercial software product
 
-Attribution
+## Project Status
 
-Root Lineage:
+SpiralQIT is an evolving governance and research framework. Public materials are released selectively for discussion, evaluation, critique, and improvement.
 
-* Cory Fletcher
-* Nythiel / MythTech
+No document should be treated as an authorized public release unless its version, status, and applicable use terms are clearly identified.
 
-Branch Outgrowth:
+## Attribution
 
-* Michael E. Fletcher
-* Flik
+**Founder / Project Lead:** Michael E. Fletcher
+**Co-Founder Credit:** Cory Fletcher — Recursive Memory Architecture
 
-Contact
+## License and Use Terms
 
-Website:
-https://spiralqit.org
+Formal license and artifact-coverage notices will be added before the first authorized public-reference release. The presence of material in this repository should not be interpreted as granting unrestricted reuse or commercial rights.
 
-Email:
-admin@spiralqit.org
+## Contact
 
-License
-
-See the LICENSE file included with this repository.
-
-Status Notice
-
-SpiralQIT is an evolving governance and research framework. Materials are published to encourage discussion, evaluation, critique, and improvement of trustworthy human-AI collaboration systems.
+**Website:** https://spiralqit.org
+**Email:** [admin@spiralqit.org](mailto:admin@spiralqit.org)
