@@ -4,6 +4,13 @@
 
 SpiralQIT is a governance-oriented framework for improving trust, accountability, transparency, and resilience in human and AI-assisted decision systems.
 
+## Public Repository Boundary
+
+This repository is SpiralQIT’s public-reference and navigation layer. Restricted Covered Materials are hosted outside public GitHub and are governed only by their specific file-level notices and authorized release records.
+
+See [PUBLICATION_BOUNDARY.md](PUBLICATION_BOUNDARY.md) for the controlling repository boundary.
+
+
 ## Areas of Focus
 
 * Evidence-based reasoning
